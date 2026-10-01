@@ -7,3 +7,7 @@ candidates.
 The key task involved cleaning the academic information, which was stored in a nested format. The data was split into separate columns for easier analysis and deleted few columns that 
 contained details related to diplomas, A/L, and O/L results, which were irrelevant for determining the candidates' eligibility. After cleaning and wrangling the data within Power BI, visualizations were created to facilitate 
 the analysis of the applicant's qualifications and experience. 
+
+------------------------------------------------------------------------------------------
+## To view PowerBI dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiZDkxYTAwMTYtZjMxNi00MDE1LTg1NzktMmYwMDkxZTE4MjMyIiwidCI6ImFhYzBjNTY0LTZjNWUtNGIwNS04ZGMzLTQwODA4N2Y3N2Y3NiIsImMiOjEwfQ%3D%3D
